@@ -1,0 +1,143 @@
+ body {
+  background-color: #f2f2f2;
+}
+.navbar {
+    box-sizing: border-box;
+    max-width: 100%;
+    height:150px;
+    text-align: center;
+    background-color:#201F1D;
+    h1 {
+        color: whitesmoke;
+        display: flex;
+        justify-content: center;
+       
+    }
+    h3 {
+        color:whitesmoke
+    }
+
+    
+}
+
+
+.content-box {
+    box-sizing: border-box;
+    max-width: 100%;
+    height:500px;
+    background-color: #fdfdfd;
+}
+
+   
+.box {
+    border:2px;
+    border-radius: 10px;
+    box-shadow: 30px;
+    background-color: #fff;
+    height: 390px;
+    width:90%;
+    margin-left: 60px;
+    margin-top: 70px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+
+
+ .img {
+          margin-top: 30px;
+          margin-left:30px;
+        }
+h4{
+    
+            align-items:flex-start;
+           justify-content: center;
+          text-align: center;
+          color: #0d6efd;
+     
+         }
+h1 {
+             display: flex ;
+             text-align: center;
+             justify-content: space-around;
+           
+            }  
+p {
+    display: flex ;
+             text-align: center;
+             justify-content: space-around;
+
+}
+
+
+  
+.list {
+    align-items: flex;
+    text-align: center;
+    
+    justify-content:space-around;
+    gap: 10px;
+    
+}  
+
+
+
+
+
+
+
+.why-choose-us {
+  background-color: #fdfdfd;
+  padding: 20px;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 24px;
+  color: black;
+  margin-bottom: 10px;
+}
+
+.section-subtitle {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.feature-box {
+  background-color: white;
+  padding: 15px;
+  margin: 10px;
+  width: 250px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.icon {
+  font-size: 24px;
+  background-color: black;
+  color: white;
+  padding: 8px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.feature-box h3 {
+  font-size: 18px;
+  color: black;
+  margin-bottom: 8px;
+}
+
+.feature-box p {
+  font-size: 13px;
+  color: #666;
+}
